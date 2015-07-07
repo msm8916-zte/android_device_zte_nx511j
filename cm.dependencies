@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_zte_msm8939-common",
+    "target_path": "device/zte/msm8939-common"
+  }
+]

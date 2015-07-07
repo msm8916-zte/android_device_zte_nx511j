@@ -1,0 +1,8 @@
+# lcd density
+ro.sf.lcd_density=480
+
+# Radio
+persist.radio.multisim.config=dsds
+ro.com.android.mobiledata=false
+ro.config.always_show_roaming=true
+ro.telephony.default_network=9,1
